@@ -1,7 +1,7 @@
 this is a new file 
 
 these are changes in master
-these are changes in another
+these are changes in new file
 
 
 these are changes from another account
